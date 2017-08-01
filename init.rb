@@ -1,8 +1,8 @@
 Redmine::Plugin.register :redmine_subtasks_inherited_fields do
   name 'Redmine Subtasks Inherited Fields plugin'
-  author 'Edosoft Factory'
+  author 'Edosoft Factory - with dkd modifications'
   description 'This is a plugin for Redmine to allow choosing which fields are inherited when you create a subtask'
-  version '1.1.0'
+  version '1.1.1'
   url 'http://www.edosoftfactory.com'
   author_url 'mailto:david.verdu@edosoftfactory.com'
   
