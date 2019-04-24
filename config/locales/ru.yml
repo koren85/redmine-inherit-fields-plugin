@@ -1,0 +1,15 @@
+# English strings go here for Rails i18n
+ru:
+  subtasks_inherited_fields_plugin_config_title: "Выберите поля для наследования при создании подзадачи"
+  default_subtask_tracker: "Трекер подзадачи по умолчанию (когда не наследуется от родительской задачи)"
+  inherit_fixed_version: "Унаследовать родительскую целевую версию"
+  inherit_assigned_to: "Унаследовать Назначена"
+  inherit_category: "Наследовать родительскую категорию"
+  inherit_priority: "Унаследовать родительский приоритет"
+  inherit_status: "Наследовать родительский статус"
+  inherit_start_date: "Унаследовать родительскую дату начала"
+  inherit_due_date: "Унаследовать родительский срок"
+  inherit_description: "Наследовать родительское описание"
+  inherit_is_private: "Наследовать родительский признак Частный"
+  inherit_parent_tracker: "Наследовать родительский трекер"
+  inherit: "Наследовать"
